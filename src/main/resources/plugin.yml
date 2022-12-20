@@ -1,0 +1,7 @@
+name: nocrystalanchor
+version: '${project.version}'
+main: plugins.me.nocrystalanchor.nocrystalanchor
+api-version: 1.19
+authors: [ HyprexDeva ]
+description: One can't place End Crystals and Respawn Anchors in OverWorld.
+website: https://github.com/hyprex-deva
